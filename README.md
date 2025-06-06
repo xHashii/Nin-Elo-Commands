@@ -1,7 +1,8 @@
 # Nin ELO Bot - Command Guide
 
 Welcome to the Nin ELO Bot! This bot helps manage ELO ratings, track match history, and facilitate matchmaking for your server.
-The bot integrates with a web interface where you can view leaderboards, detailed match histories, and player profiles. 
+The bot integrates with a web interface where you can view leaderboards, detailed match histories, and player profiles.
+
 Visit [https://nin-tracker.onrender.com/](https://nin-tracker.onrender.com/)
 
 ## General Information
@@ -105,7 +106,7 @@ Don't forget to check out our website for a richer experience:
 *   **Player Profiles:** Detailed statistics and match history for each player.
 *   **Dashboard (Logged-in Users):** Your personal stats, ELO progress, recent matches, and more!
 
-**[nin-tracker.onrender.com]((https://nin-tracker.onrender.com/))**
+**[https://nin-tracker.onrender.com/](https://nin-tracker.onrender.com/)**
 
 ---
 
