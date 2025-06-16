@@ -161,15 +161,12 @@ Welcome to the NinHub bot! Below are some of our key Discord slash commands. For
 
 ## 🚀 Getting Started
 
-1.  **Invite NinHub to Your Server:**
-    *   Click here: [Add NinHub Bot](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=YOUR_PERMISSIONS_INTEGER&scope=bot%20applications.commands) <!-- Replace with your actual bot invite link -->
-    *   Ensure the bot has the necessary permissions it requests.
-2.  **Configure Your Server (Admins):**
+1.  **Configure Your Server (Admins):**
     *   Use `/server_config` to set up essential channels (like lobby VC for matchmaking, audit log channel) and the moderator role.
     *   Use `/set_marketplace_channel` if you want marketplace updates.
-3.  **Explore the Website:**
+2.  **Explore the Website:**
     *   Visit [ninhub.xyz](https://ninhub.xyz/) <!-- Replace -->
     *   Log in with Discord to view your dashboard, manage your Nindex entries (if applicable), and interact with the marketplace.
-4.  **Start Using Commands:**
+3.  **Start Using Commands:**
     *   Use `/help` in Discord to see all commands.
     *   Moderators can start reporting matches with `/report`.
