@@ -5,7 +5,7 @@
 
 Welcome to NinHub! This platform is designed to enhance your Nin Online experience with a suite of tools including a powerful Discord bot and a feature-rich website.
 
-**Live Site:** [YourNinHubWebsite.com](https://yourninhubwebsite.com) <!-- Replace with your actual website URL -->
+**Live Site:** [ninhub.xyz](https://ninhub.xyz/) <!-- Replace with your actual website URL -->
 
 ---
 
