@@ -168,7 +168,7 @@ Welcome to the NinHub bot! Below are some of our key Discord slash commands. For
     *   Use `/server_config` to set up essential channels (like lobby VC for matchmaking, audit log channel) and the moderator role.
     *   Use `/set_marketplace_channel` if you want marketplace updates.
 3.  **Explore the Website:**
-    *   Visit [YourNinHubWebsite.com](https://yourninhubwebsite.com) <!-- Replace -->
+    *   Visit [ninhub.xyz](https://ninhub.xyz/) <!-- Replace -->
     *   Log in with Discord to view your dashboard, manage your Nindex entries (if applicable), and interact with the marketplace.
 4.  **Start Using Commands:**
     *   Use `/help` in Discord to see all commands.
